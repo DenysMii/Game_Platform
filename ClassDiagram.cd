@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Games_Platform.User">
+    <Position X="1.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAQAAAAAgAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\User.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Games_Platform.Gamer">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACEEAAAAAAgAAAAAAAAAAgAAQIAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Classes\Gamer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Games_Platform.Developer">
+    <Position X="4" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAgAAAAAAAAAAgAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Developer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Games_Platform.Game">
+    <Position X="6.25" Y="3" Width="1.5" />
+    <AssociationLine Name="Platform" Type="Games_Platform.Platform" ManuallyRouted="true">
+      <Path>
+        <Point X="7.75" Y="3.697" />
+        <Point X="8.25" Y="3.697" />
+        <Point X="8.25" Y="3.662" />
+        <Point X="8.75" Y="3.662" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>CAAAEEAAAAAoAEAAAAMAAAAgAAAIAAACCAAAEAACAAA=</HashCode>
+      <FileName>Classes\Game.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Platform" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Games_Platform.Review">
+    <Position X="8.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAgAAAAAAAAAgIBgAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Review.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Gamer" />
+      <Property Name="Game" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Games_Platform.Platform">
+    <Position X="8.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAgAAAAQgAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Classes\Platform.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Games_Platform.DatabasePrototype">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wAAAAAAAEQAAAAAAAAAAAQAAIAAAAAAgCIAAAAAAAAA=</HashCode>
+      <FileName>DatabasePrototype.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Games_Platform.Admin">
+    <Position X="1.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Admin.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

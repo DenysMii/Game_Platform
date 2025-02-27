@@ -1,0 +1,56 @@
+C:\Users\Denys\Desktop\Практичні\ТСПП\Games Platform\bin\Debug\net8.0-windows\Games Platform.exe
+C:\Users\Denys\Desktop\Практичні\ТСПП\Games Platform\bin\Debug\net8.0-windows\Games Platform.deps.json
+C:\Users\Denys\Desktop\Практичні\ТСПП\Games Platform\bin\Debug\net8.0-windows\Games Platform.runtimeconfig.json
+C:\Users\Denys\Desktop\Практичні\ТСПП\Games Platform\bin\Debug\net8.0-windows\Games Platform.dll
+C:\Users\Denys\Desktop\Практичні\ТСПП\Games Platform\bin\Debug\net8.0-windows\Games Platform.pdb
+C:\Users\Denys\Desktop\Практичні\ТСПП\Games Platform\obj\Debug\net8.0-windows\Games Platform.csproj.GenerateResource.cache
+C:\Users\Denys\Desktop\Практичні\ТСПП\Games Platform\obj\Debug\net8.0-windows\Games Platform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denys\Desktop\Практичні\ТСПП\Games Platform\obj\Debug\net8.0-windows\Games Platform.AssemblyInfoInputs.cache
+C:\Users\Denys\Desktop\Практичні\ТСПП\Games Platform\obj\Debug\net8.0-windows\Games Platform.AssemblyInfo.cs
+C:\Users\Denys\Desktop\Практичні\ТСПП\Games Platform\obj\Debug\net8.0-windows\Games Platform.csproj.CoreCompileInputs.cache
+C:\Users\Denys\Desktop\Практичні\ТСПП\Games Platform\obj\Debug\net8.0-windows\Games Platform.dll
+C:\Users\Denys\Desktop\Практичні\ТСПП\Games Platform\obj\Debug\net8.0-windows\refint\Games Platform.dll
+C:\Users\Denys\Desktop\Практичні\ТСПП\Games Platform\obj\Debug\net8.0-windows\Games Platform.pdb
+C:\Users\Denys\Desktop\Практичні\ТСПП\Games Platform\obj\Debug\net8.0-windows\Games Platform.genruntimeconfig.cache
+C:\Users\Denys\Desktop\Практичні\ТСПП\Games Platform\obj\Debug\net8.0-windows\ref\Games Platform.dll
+C:\Users\Denys\Desktop\Практичні\ТСПП\Games Platform\obj\Debug\net8.0-windows\Games_Platform.DeveloperForm.resources
+C:\Users\Denys\Desktop\Практичні\ТСПП\Games Platform\obj\Debug\net8.0-windows\Games_Platform.Login.resources
+C:\Users\Denys\Desktop\Практичні\ТСПП\Games Platform\obj\Debug\net8.0-windows\Games_Platform.Register.resources
+C:\Users\Denys\Desktop\Практичні\ТСПП\Games Platform\obj\Debug\net8.0-windows\Games Platform.csproj.AssemblyReference.cache
+C:\Users\Denys\Desktop\Практичні\ТСПП\Games Platform\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Denys\Desktop\Практичні\ТСПП\Games Platform\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Denys\Desktop\Практичні\ТСПП\Games Platform\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Denys\Desktop\Практичні\ТСПП\Games Platform\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Denys\Desktop\Практичні\ТСПП\Games Platform\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Denys\Desktop\Практичні\ТСПП\Games Platform\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Denys\Desktop\Практичні\ТСПП\Games Platform\obj\Debug\net8.0-windows\Games Pl.8B6161F0.Up2Date
+C:\Users\Denys\Desktop\Практичні\ТСПП\Games Platform\obj\Debug\net8.0-windows\Games_Platform.AdminForm.resources
+C:\Users\Denys\Desktop\Практичні\ТСПП\Games Platform\obj\Debug\net8.0-windows\Games_Platform.GamerForm.resources
+C:\Users\Denys\Desktop\1 семестр\Практичні\ТСПП\Games Platform\bin\Debug\net8.0-windows\Games Platform.exe
+C:\Users\Denys\Desktop\1 семестр\Практичні\ТСПП\Games Platform\bin\Debug\net8.0-windows\Games Platform.deps.json
+C:\Users\Denys\Desktop\1 семестр\Практичні\ТСПП\Games Platform\bin\Debug\net8.0-windows\Games Platform.runtimeconfig.json
+C:\Users\Denys\Desktop\1 семестр\Практичні\ТСПП\Games Platform\bin\Debug\net8.0-windows\Games Platform.dll
+C:\Users\Denys\Desktop\1 семестр\Практичні\ТСПП\Games Platform\bin\Debug\net8.0-windows\Games Platform.pdb
+C:\Users\Denys\Desktop\1 семестр\Практичні\ТСПП\Games Platform\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Denys\Desktop\1 семестр\Практичні\ТСПП\Games Platform\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Denys\Desktop\1 семестр\Практичні\ТСПП\Games Platform\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Denys\Desktop\1 семестр\Практичні\ТСПП\Games Platform\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Denys\Desktop\1 семестр\Практичні\ТСПП\Games Platform\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Denys\Desktop\1 семестр\Практичні\ТСПП\Games Platform\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Denys\Desktop\1 семестр\Практичні\ТСПП\Games Platform\obj\Debug\net8.0-windows\Games Platform.csproj.AssemblyReference.cache
+C:\Users\Denys\Desktop\1 семестр\Практичні\ТСПП\Games Platform\obj\Debug\net8.0-windows\Games_Platform.AdminForm.resources
+C:\Users\Denys\Desktop\1 семестр\Практичні\ТСПП\Games Platform\obj\Debug\net8.0-windows\Games_Platform.DeveloperForm.resources
+C:\Users\Denys\Desktop\1 семестр\Практичні\ТСПП\Games Platform\obj\Debug\net8.0-windows\Games_Platform.GamerForm.resources
+C:\Users\Denys\Desktop\1 семестр\Практичні\ТСПП\Games Platform\obj\Debug\net8.0-windows\Games_Platform.Login.resources
+C:\Users\Denys\Desktop\1 семестр\Практичні\ТСПП\Games Platform\obj\Debug\net8.0-windows\Games_Platform.Register.resources
+C:\Users\Denys\Desktop\1 семестр\Практичні\ТСПП\Games Platform\obj\Debug\net8.0-windows\Games Platform.csproj.GenerateResource.cache
+C:\Users\Denys\Desktop\1 семестр\Практичні\ТСПП\Games Platform\obj\Debug\net8.0-windows\Games Platform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denys\Desktop\1 семестр\Практичні\ТСПП\Games Platform\obj\Debug\net8.0-windows\Games Platform.AssemblyInfoInputs.cache
+C:\Users\Denys\Desktop\1 семестр\Практичні\ТСПП\Games Platform\obj\Debug\net8.0-windows\Games Platform.AssemblyInfo.cs
+C:\Users\Denys\Desktop\1 семестр\Практичні\ТСПП\Games Platform\obj\Debug\net8.0-windows\Games Platform.csproj.CoreCompileInputs.cache
+C:\Users\Denys\Desktop\1 семестр\Практичні\ТСПП\Games Platform\obj\Debug\net8.0-windows\Games Pl.8B6161F0.Up2Date
+C:\Users\Denys\Desktop\1 семестр\Практичні\ТСПП\Games Platform\obj\Debug\net8.0-windows\Games Platform.dll
+C:\Users\Denys\Desktop\1 семестр\Практичні\ТСПП\Games Platform\obj\Debug\net8.0-windows\refint\Games Platform.dll
+C:\Users\Denys\Desktop\1 семестр\Практичні\ТСПП\Games Platform\obj\Debug\net8.0-windows\Games Platform.pdb
+C:\Users\Denys\Desktop\1 семестр\Практичні\ТСПП\Games Platform\obj\Debug\net8.0-windows\Games Platform.genruntimeconfig.cache
+C:\Users\Denys\Desktop\1 семестр\Практичні\ТСПП\Games Platform\obj\Debug\net8.0-windows\ref\Games Platform.dll
